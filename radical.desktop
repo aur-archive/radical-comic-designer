@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Radical Comic Designer
+Comment=Visual Software Creation
+Exec=radical
+Icon=radical
+Terminal=false
+Type=Application
+Categories=Graphics;
